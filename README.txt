@@ -1,2 +1,2 @@
-bug fix version of simple Brainfuck compiler code by Miruchigawa
+bug fix version of simple Brainfuck interpreter code by Miruchigawa
 which works perfectly perhaps.
